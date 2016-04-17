@@ -5,7 +5,7 @@
 using namespace std;
 
 // Set true to enable the comparison between the Bisection and Secant methods
-bool COMPARE = true;
+bool COMPARE = false;
 
 int p, q, r, s, t, u;
 
