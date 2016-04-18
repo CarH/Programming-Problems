@@ -13,7 +13,7 @@ vector<int> camp;
  * 
  * @param d the maximum distance allowed
  * @return true, in case it's possible to do the trip walking at most d
- * 			in a day, false otherwise.
+ * 		in a day, false otherwise.
  */
 
 bool f(int d) {
